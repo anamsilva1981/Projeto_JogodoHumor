@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    width: 85%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+body{
+    background-image: url(/img/FundoTela.png); 
+    min-width: 280px;
+    max-width: 800px;
+    margin: auto;
+    align-items: center;
+}
+
+h1 {
+    font-family: Tahoma;
+    color: black;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: Tahoma;
+    font-size: 30px;
+    color: black;
+    text-align: left;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    font-family: Tahoma;
+    color: blanchedalmond;
+    align-items: center;
+    margin-top: 20px;
+}
+
+button {
+    font-family: Tahoma;
+    padding: 20px;
+    text-shadow: 1px 1px 6px #1361aa;
+    color: #e5ff00ef;
+    background-color: #1361aa;
+    font-size: 25px;
+    display: flex;
+    margin: 0 auto;
+    position: center;
+    right: 10px;
+    margin-top: 20px;
+
+}
+
